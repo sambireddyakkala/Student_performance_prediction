@@ -85,13 +85,13 @@ The analysis shows a strong relationship between second-period grades (`G2`) and
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/Akkala Sambi Reddy/Student_performance_prediction.git
 ```
 
 Open the project folder:
 
 ```bash
-cd YOUR_REPOSITORY
+cd Student_performance_prediction
 ```
 
 Install the required libraries:
