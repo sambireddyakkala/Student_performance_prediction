@@ -34,4 +34,3 @@ Polynomial Regression (Degree 2) achieved the lowest test RMSE of approximately 
 
 These results are based on one train/test split and may vary with a different dataset split.
 
-> **Note:** Upload the two graph images into a folder named `results` in your GitHub repository. The image links above will display once those files are present.
